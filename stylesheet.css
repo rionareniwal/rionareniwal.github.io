@@ -1,0 +1,49 @@
+
+* {
+	font-family: Times New Roman, sans-serif;
+	color: black;
+	text-align: center;
+}
+
+body {
+	width: 1050px;
+	margin: 0 auto;
+	background-color:lightyellow;}
+}
+nav{
+	background-color:lightpink;
+	padding: 10px;
+	margin: 10px;
+
+}
+li{
+	display: inline;
+	padding: 5px;
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+
+}
+main{
+	background-color: lightblue;
+	padding: 10px;
+	margin: 10px;
+
+}
+article{
+	font-family: cambria ,sans-serif;
+	background-color: lightgreen;
+	padding: 10px;
+	margin:10px;
+	width: 450px;
+	float: left;
+
+}
+footer{
+	background-color: lightpink;
+	padding: 10px;
+	margin: 10px;
+
+}
